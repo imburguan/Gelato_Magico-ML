@@ -13,6 +13,7 @@ O dataset contém 100 linhas com as seguintes colunas:
 - `Temperatura`: temperatura média diária (°C)
 
 O arquivo CSV está nomeado como `vendas_sorvete.csv`.
+![...](Captura de Tela 2025-05-11 às 16.12.26.png)
 
 ---
 
